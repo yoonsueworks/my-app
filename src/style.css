@@ -1,0 +1,10 @@
+/** @format */
+#root div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+}/*# sourceMappingURL=style.css.map */
